@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CentralErro.Core\CentralErro.Core.csproj" />
+    <ProjectReference Include="..\CentralErro.Model\CentralErro.Model.csproj" />
+    <ProjectReference Include="..\CentralErro.Service\CentralErro.Service.csproj" />
+    <ProjectReference Include="..\CentralErro.Transport\CentralErro.Transport.csproj" />
+  </ItemGroup>
+
+</Project>

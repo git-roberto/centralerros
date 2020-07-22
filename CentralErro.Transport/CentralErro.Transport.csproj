@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CentralErro.Core\CentralErro.Core.csproj" />
+    <ProjectReference Include="..\CentralErro.Model\CentralErro.Model.csproj" />
+  </ItemGroup>
+
+</Project>

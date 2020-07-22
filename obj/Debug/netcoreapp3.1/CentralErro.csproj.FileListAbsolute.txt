@@ -1,0 +1,4 @@
+D:\Codenation\Samples\CentralErro\obj\Debug\netcoreapp3.1\CentralErro.csprojAssemblyReference.cache
+D:\Codenation\Samples\CentralErro\obj\Debug\netcoreapp3.1\CentralErro.AssemblyInfoInputs.cache
+D:\Codenation\Samples\CentralErro\obj\Debug\netcoreapp3.1\CentralErro.AssemblyInfo.cs
+D:\Codenation\Samples\CentralErro\obj\Debug\netcoreapp3.1\CentralErro.csproj.CoreCompileInputs.cache

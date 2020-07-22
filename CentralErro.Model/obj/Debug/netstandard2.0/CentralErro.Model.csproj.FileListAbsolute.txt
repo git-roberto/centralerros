@@ -1,0 +1,9 @@
+D:\Codenation\Samples\CentralErro\CentralErro.Model\bin\Debug\netstandard2.0\CentralErro.Model.deps.json
+D:\Codenation\Samples\CentralErro\CentralErro.Model\bin\Debug\netstandard2.0\CentralErro.Model.dll
+D:\Codenation\Samples\CentralErro\CentralErro.Model\obj\Debug\netstandard2.0\CentralErro.Model.csprojAssemblyReference.cache
+D:\Codenation\Samples\CentralErro\CentralErro.Model\obj\Debug\netstandard2.0\CentralErro.Model.AssemblyInfoInputs.cache
+D:\Codenation\Samples\CentralErro\CentralErro.Model\obj\Debug\netstandard2.0\CentralErro.Model.AssemblyInfo.cs
+D:\Codenation\Samples\CentralErro\CentralErro.Model\bin\Debug\netstandard2.0\CentralErro.Model.pdb
+D:\Codenation\Samples\CentralErro\CentralErro.Model\obj\Debug\netstandard2.0\CentralErro.Model.csproj.CoreCompileInputs.cache
+D:\Codenation\Samples\CentralErro\CentralErro.Model\obj\Debug\netstandard2.0\CentralErro.Model.dll
+D:\Codenation\Samples\CentralErro\CentralErro.Model\obj\Debug\netstandard2.0\CentralErro.Model.pdb

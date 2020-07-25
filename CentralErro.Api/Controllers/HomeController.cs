@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using CentralErro.Api.Models;
+using CentralErro.Core;
 
 namespace CentralErro.Api.Controllers
 {

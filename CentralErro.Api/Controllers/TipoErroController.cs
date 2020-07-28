@@ -11,11 +11,13 @@ using System.Threading.Tasks;
 
 namespace CentralErro.Api.Controllers
 {
-    public class TipoErroController : Controller
+    public class TipoErroController : BaseSistemaController
     {
-        [HttpPost]
         public ActionResult Index()
         {
+
+            Teste();
+
             using (TipoErroService service = new TipoErroService())
             {
                 List<TipoErroDTO> lstRetorno = service.ListarDTO();

@@ -18,7 +18,7 @@ namespace CentralErro.Service
 
         public virtual IQueryable<T> Listar()
         {
-            IQueryable<T> retorno = Conn.Set<T>().AsQueryable();
+                IQueryable<T> retorno = Conn.Set<T>().AsQueryable();
 
             return retorno;
         }
